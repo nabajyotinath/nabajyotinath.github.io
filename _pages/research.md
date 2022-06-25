@@ -1,13 +1,13 @@
 ---
 title:
 layout: default
-permalink: /publications/
+permalink: /research/
 published: true
 ---
 
 
 
-## Conference Papers
+## Write Research here
 
 #### 2020
 
