@@ -16,7 +16,18 @@ published: true
 
 
 
-## Workshop
+## Workshop and Training
+
+#### 2022
+
+<p> 1. IIT Kanpur PYTHON and MATLAB/OCTAVE-Based Extensive Training School in 5G Wireless Technologies.<br>
+ Duration : 12th March - 15th April 2022 <br>
+ Organizer : Department of Electrical Engineering, IIT Kanpur </p>
+
+
+
+
+
 
 #### 2018
 
