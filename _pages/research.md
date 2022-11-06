@@ -7,7 +7,9 @@ published: true
 
 
 
-## On the performance of time reversal underwater acoustic communication based on BELLHOP channel simulator.
+## Underwater Wireless Communication Systems. 
+
+0. Investigating the performance of time reversal underwater acoustic communication considering underwater channel characterestics like absorption, spreading, scattering, sound speed and multipaths with the help of specialized beam tracing software BELLHOP. 
 
 
 
