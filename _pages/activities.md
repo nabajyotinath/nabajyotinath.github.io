@@ -38,4 +38,11 @@ published: true
 <p> 2. FBGA Based System Design  <br>
   Duration : 9th Feb - 11th Feb 2018 <br>
   Organizer : CoreEL Technologies Pvt. Ltd </p>
+
+## Miscellaneous
+<p> 1. Elected as the Media and Marketing Head for the Research Scholar Forum (RSF)-IITG (2023-2024).
+<p> 3. Volunteer for the National Conference on Communication (NCC) from 23 - 26 Feb. 2023.
+
+
+
   
