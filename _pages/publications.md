@@ -12,7 +12,7 @@ published: true
 2. N. Nath and S. Chouhan, "Statistical Analysis of Underwater Acoustic Channel," accepted in IEEE ANTS 2023, Jaipur, India.
 
 #### Journal
-0. N. Nath and S. Chouhan, "Error and Outage Analysis of Cooperative Underwater Wireless Optical Communication System," submitted in IEEE Internet of Things Journal.
+0. N. Nath and S. Chouhan, "Error and Outage Analysis of Cooperative Underwater Wireless Optical Communication System," under review for IEEE Internet of Things Journal.
    
 
 
