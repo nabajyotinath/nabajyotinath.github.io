@@ -17,6 +17,13 @@ published: true
 
 
 ## Workshop and Training
+#### 2024
+
+<p> 1. 6G for Connecting the Billions by Non-Orthogonal Multiple Access (NOMA).<br>
+ Duration : 12th April 2024 <br>
+ Organizer : Department of Electrical Engineering, IIT Indore </p>
+
+
 
 #### 2022
 
