@@ -40,7 +40,8 @@ published: true
   Organizer : CoreEL Technologies Pvt. Ltd </p>
 
 ## Miscellaneous
-<p> 1. Elected as the Media and Marketing Head for the Research Scholar Forum (RSF)-IITG (2023-2024).
+<p> 1. TPC member of ANTS'24 WiE.
+<p> 2. Elected as the Media and Marketing Head for the Research Scholar Forum (RSF)-IITG (2023-2024).
 <p> 3. Volunteer for the National Conference on Communication (NCC) from 23 - 26 Feb. 2023.
 
 
